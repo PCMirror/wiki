@@ -1,3 +1,4 @@
 .docusaurus/
-*.sh
+build/
 node_modules/
+*.sh
