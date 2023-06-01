@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmodern_wiki=self.webpackChunkmodern_wiki||[]).push([[307],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
